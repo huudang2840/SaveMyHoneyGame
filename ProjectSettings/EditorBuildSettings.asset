@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: fc264a99e12184d138379f526233c1ca
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 4dc5785cd418a401ba62231cfd9d761e
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/Ck_Map1.1.unity
+    guid: 38b0c6ecc5880499cbc545fc87374580
+  - enabled: 1
+    path: Assets/Scenes/Map 1/Map1.1.unity
+    guid: 9c8c51b77cba549109efc5963a705a33
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/Ck_Map1.2.unity
+    guid: 2c2353774a30e440aa71f68a01e409a2
+  - enabled: 1
+    path: Assets/Scenes/Map 1/Map1.2.unity
+    guid: 153cc76ff1dc21544b7cb3060775b450
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/Ck_Map1.3.unity
+    guid: 72c9a40b9ea7e427c9cc85cbfa9034fa
+  - enabled: 1
+    path: Assets/Scenes/Map 1/Map1.3.unity
+    guid: 5e6950331de1f419f9cf0fafaa6f00dc
+  - enabled: 0
+    path: Assets/Scenes/ChuyenCanh/Ck_Map1.Final.unity
+    guid: f1bea877e431e40f68201acb3a1ad698
+  - enabled: 1
+    path: Assets/Scenes/Map 1/Map1.Final.unity
+    guid: dbd8ce887c2fe41438acc7ac9abbb335
+  - enabled: 0
+    path: Assets/Scenes/ChuyenCanh/Ck_Map2.1.unity
+    guid: 4d17c3acbd3664f60a4cdea989062451
+  - enabled: 1
+    path: Assets/Scenes/Map2/Map2.1.unity
+    guid: fd222d70774af4cc69dd0bd9f09eed02
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/Ck_Map2.2.unity
+    guid: c3daa3b01b93441ad8cc6a7860f3d31c
+  - enabled: 1
+    path: Assets/Scenes/Map2/Map2.2.unity
+    guid: cae3a23cb32cf4ed59cb234f03ddc49c
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/Ck_Map2.3.unity
+    guid: 22f8d9e7b71664a028889686744dac6f
+  - enabled: 1
+    path: Assets/Scenes/Map2/Map2.3.unity
+    guid: c99331d1b7eb74656887975eb1b9fa5d
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/CK_Map2.Final.unity
+    guid: a0578f49a223047c4ba3e67b5c9d7829
+  - enabled: 1
+    path: Assets/Scenes/Map2/Map2.Final.unity
+    guid: fc637667c2de44aee8004da5a1eaf79a
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/Ck_Map3.1.unity
+    guid: 7763e13468b6049a59c3831a0c03a7e3
+  - enabled: 1
+    path: Assets/Scenes/Map3/Map3.1.unity
+    guid: 6d272a552c0ce4c729f6dd15d67455f4
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/Ck_Map3.2.unity
+    guid: e8de9ce8c651f48a898377bf4c7f08cc
+  - enabled: 1
+    path: Assets/Scenes/Map3/Map3.2.unity
+    guid: 156cccc028a4f4c58a96a22ad09d4dd4
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/Ck_Map3.3.unity
+    guid: e10b447dc30464558bba7c751a36b07f
+  - enabled: 1
+    path: Assets/Scenes/Map3/Map3.3.unity
+    guid: 7e3142297b29a4456b2807c4d59e066d
+  - enabled: 1
+    path: Assets/Scenes/ChuyenCanh/CK_Map3.Final.unity
+    guid: 4b6e2d1527ca0445da68874664bf8c0f
+  - enabled: 1
+    path: Assets/Scenes/Map3/Map3.Final.unity
+    guid: e482c9dc2ef9046b2829bebe836beaed
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a62ddb0a2fead441aa95fe8058b70564
+  m_configObjects: {}

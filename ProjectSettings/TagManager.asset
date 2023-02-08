@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Deco
+  - Tilemap
+  - HealthBonus
+  - Weapon
+  - BulletItems
+  - Enemy
+  - ProtectedItem
+  - BuffDameItem
+  - Effect
+  - PointPass
+  - Terrian
+  - Terrain
+  - Enemy1
+  - Enemy2
+  - Enemy3
+  - Enemy4
+  - Enemy5
+  - Enemy6
+  - Enemy7
+  - Enemy8
+  - Enemy9
+  - Enemy10
+  - Enemy11
+  - Enemy12
+  - Boss1
+  - Boss2
+  - Boss3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
